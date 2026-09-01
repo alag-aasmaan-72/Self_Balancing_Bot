@@ -1,8 +1,4 @@
 /*
-▪ * Team Id:  eYRC#3575
-▪ * Author List: AMAN KUMAR YADAV , SATYA PRAKASH MALLICK AND SAMIKSHA SAHU 
-▪ * Filename: 2_PID_CONTROL
-▪ * Theme: KrishiBalancer (KB)
 ▪ * Functions: setup() , loop() , task_5_milli_sec() , task_30_milli_sec()
 ▪ * Global Variables: KD_POSITION , KI_POSITION  , KP_POSITION , K_YAW , REFERENCE_ANGLE , pseudo_REFERENCE_ANGLE , REFERENCE_YAW  ,  T_X ,  T_Y  
                       REFERENCE_POSITION  , REFERENCE_SPEED , angle_buffer , angle_for_pid , new_angle_ready , COUNT , last_Time_loop , interval_of_loop
