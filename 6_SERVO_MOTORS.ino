@@ -1,8 +1,4 @@
 /*
-▪ * Team Id:  eYRC#3575
-▪ * Author List: AMAN KUMAR YADAV , SATYA PRAKASH MALLICK AND SAMIKSHA SAHU 
-▪ * Filename: 6_SERVO_MOTORS
-▪ * Theme: KrishiBalancer (KB)
 ▪ * Functions: setup() , loop() , 
 ▪ * Global Variables: ARM , GRIPPER , state , lastMoveTime , lastMoveTime1 , lastMoveTime2 , lastMoveTime3 , lastMoveTime4
                       lastMoveTime5 , lastMoveTime6 , interval , servoPos_1 , servoPos_2 , servoPos_3 , servoPos_4 , servoPos_5
