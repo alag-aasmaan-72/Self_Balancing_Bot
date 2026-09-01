@@ -1,8 +1,4 @@
 /*
-▪ * Team Id:  eYRC#3575
-▪ * Author List: AMAN KUMAR YADAV , SATYA PRAKASH MALLICK AND SAMIKSHA SAHU 
-▪ * Filename: 4_MOTOR_ENCODERS
-▪ * Theme: KrishiBalancer (KB)
 ▪ * Functions: setup , loop , MOTOR_2_ENCODER() , ISR(PCINT2_vect)
 ▪ * Global Variables: MOTOR_1_ENCODER_CH_A , MOTOR_1_ENCODER_CH_B , MOTOR_2_ENCODER_CH_A , MOTOR_2_ENCODER_CH_B , PREV_STATE_OF_ENCODER_CH_A
 */ 
