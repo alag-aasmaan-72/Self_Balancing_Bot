@@ -1,8 +1,4 @@
-*
-▪ * Team Id:  eYRC#3575
-▪ * Author List: AMAN KUMAR YADAV , SATYA PRAKASH MALLICK AND SAMIKSHA SAHU 
-▪ * Filename: 5_MOTORS
-▪ * Theme: KrishiBalancer (KB)
+/*
 ▪ * Functions: setup() , loop() , FINAL_PWM_SENT( )
 ▪ * Global Variables: FINAL_PWM_SENT_TO_MOTOR_1 , FINAL_PWM_SENT_TO_MOTOR_2
 */ 
