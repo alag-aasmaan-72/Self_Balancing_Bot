@@ -1,8 +1,4 @@
 /*
-▪ * Team Id: eYRC#3575
-▪ * Author List: AMAN KUMAR YADAV , SATYA PRAKASH MALLICK AND SAMIKSHA SAHU 
-▪ * Filename: 7_BLUETOOTH_HC05
-▪ * Theme: KrishiBalancer (KB)
 ▪ * Functions: Bluetooth_Command(char command) , setup , loop 
 ▪ * Global Variables:  last_time_buzz , interval_buzz ,   E , BEEP_MODE  , State , motion_mode , speed , forward_motion , backward_motion 
 */ 
