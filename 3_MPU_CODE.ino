@@ -1,8 +1,4 @@
 /*
-▪ * Team Id:  eYRC#3575
-▪ * Author List: AMAN KUMAR YADAV , SATYA PRAKASH MALLICK AND SAMIKSHA SAHU 
-▪ * Filename: 3_MPU_CODE
-▪ * Theme: KrishiBalancer(KB)
 ▪ * Functions: setup() , loop() , GET_ANGLE()
 ▪ * Global Variables: MY_MPU , CURRENT_ANGLE , CURRENT_YAW , COS_COMPONENT_OF_YAW , SIN_COMPONENT_OF_YAW
 */ 
